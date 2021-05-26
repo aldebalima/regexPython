@@ -1,7 +1,7 @@
 # regexPython
 -Curso Expressões Regulares Python
-  - Data 25/05/2021
-  - Time 12:24
+  - Data: 25/05/2021
+  - Hora: 12:24
 # Version
 
 - 1.0
@@ -16,9 +16,8 @@
  
 # Prerequires
 
-- At minimum python syntax
-- In minimum git operation logic
-- In minimum shell syntax
+- Sintaxe python
+- Sintaxe shell script
 
 # Author
 
